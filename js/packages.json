@@ -1,0 +1,51 @@
+[
+  {
+    "id":1,
+    "title": "Starter Plan",
+    "price": 19,
+    "shortDesc": "Ideal for small businesses or personal brands.",
+    "desc": [
+      "1 platform (Instagram or Facebook)",
+      "4 posts/month",
+      "Basic SEO optimisation",
+      "Setup of social media accounts (2 platforms)",
+      "One month of website maintenance",
+      "Google Analytics setup and tracking",
+      "1 hour of consultation"
+    ],
+    "shipping": 4
+  },
+  {
+    "id":2,
+    "title": "Growth Plan",
+    "price": 29,
+    "shortDesc": "For growing startups looking for traction.",
+    "desc": [
+      "2 platforms",
+      "8 posts/month",
+      "Basic SEO optimization",
+      "Setup of social media accounts (2 platforms)",
+      "One month of website maintenance",
+      "Google Analytics setup and tracking",
+      "5 hour of consultation"
+    ],
+    "shipping": 4
+  },
+  {
+    "id":3,
+    "title": "Premium Plan",
+    "price": 49,
+    "shortDesc": "Comprehensive marketing for serious growth.",
+    "desc": [
+      "3 platforms",
+      "12 posts/month",
+      "Setup of social media accounts (2 platforms)",
+      "Complete customize website SEO friendly",
+      "Paid ads (Google + Meta)",
+      "One month of website maintenance",
+      "Google Analytics setup and tracking",
+      "10 hour of consultation"
+    ],
+    "shipping": 4
+  }
+]
